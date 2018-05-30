@@ -1,0 +1,81 @@
+{
+  "project_info": {
+    "project_number": "1086795670144",
+    "firebase_url": "https://fcmdemoapp-14c1c.firebaseio.com",
+    "project_id": "fcmdemoapp-14c1c",
+    "storage_bucket": "fcmdemoapp-14c1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086795670144:android:918895fad45d4b5f",
+        "android_client_info": {
+          "package_name": "com.example.fcmdemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086795670144-igrc4mumrcouiudr68e47rtjs7gjtpdk.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1086795670144-igrc4mumrcouiudr68e47rtjs7gjtpdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUKdYqe-FiL_BWwCw5C76OJHbF0QaLDP8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086795670144:android:c2694a944d7ccb45",
+        "android_client_info": {
+          "package_name": "com.mobilepractice.silicus.vsacdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086795670144-igrc4mumrcouiudr68e47rtjs7gjtpdk.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1086795670144-igrc4mumrcouiudr68e47rtjs7gjtpdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUKdYqe-FiL_BWwCw5C76OJHbF0QaLDP8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

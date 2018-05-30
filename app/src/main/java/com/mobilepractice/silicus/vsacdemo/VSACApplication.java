@@ -4,6 +4,7 @@ import android.app.Application;
 import com.microsoft.appcenter.AppCenter;
 import com.microsoft.appcenter.analytics.Analytics;
 import com.microsoft.appcenter.crashes.Crashes;
+import com.microsoft.appcenter.push.Push;
 
 /**
  * Created by Ganesh Tikone on 30/5/18. Company: Silicus Technologies Pvt. Ltd. Email:
@@ -15,7 +16,9 @@ public class VSACApplication extends Application {
   public void onCreate() {
     super.onCreate();
 
+    Push.setSenderId("1086795670144");
     AppCenter.start(this, "1e74a6fd-f435-4fd2-b75a-c11c98c30b74",
-        Analytics.class, Crashes.class);
+        Analytics.class, Crashes.class, Push.class);
+
   }
 }
