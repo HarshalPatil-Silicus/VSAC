@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">VSACDemo</string>
+  <string name="button_carsh_me">Carsh Me</string>
 </resources>
